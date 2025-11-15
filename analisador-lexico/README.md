@@ -33,8 +33,8 @@ npm -v
 ## 📥 Clonando o repositório
 
 ```bash
-git clone https://github.com/<seu_usuario>/<seu_repositorio>.git
-cd <seu_repositorio>
+git clone https://github.com/henri-grz/analisador-lexico.git
+cd analisador-lexico
 ```
 
 ---
